@@ -1,0 +1,10 @@
+Classification report for RandomForestClassifiers:-
+  
+  precision    recall  f1-score   support
+
+           0       0.98      0.94      0.96        63
+           1       0.96      0.99      0.98       108
+
+    accuracy                           0.97       171
+   macro avg       0.97      0.96      0.97       171
+weighted avg       0.97      0.97      0.97       171
